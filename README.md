@@ -1,5 +1,5 @@
 # ![ezgif-4-949fda72b882](https://user-images.githubusercontent.com/48445457/91256339-4dd06a80-e791-11ea-8255-3e3adddc4a72.gif)
-### developer
+### Developer
 
 :snowman: **skill**        : PHP, React JS, Java
 
