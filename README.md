@@ -11,8 +11,8 @@
 
 
 
-:clipboard: **SNS**        : [<img src="https://user-images.githubusercontent.com/48445457/91256686-30e86700-e792-11ea-8ef4-2f89e75a7cb9.png" width="30">
-](https://www.linkedin.com/in/hoang-duc-anh-668872192/) [<img src="https://user-images.githubusercontent.com/48445457/91257086-35f9e600-e793-11ea-9af9-eecd41aee74c.png" width="30">](https://twitter.com/HongcAn52449307) [<img src="https://user-images.githubusercontent.com/48445457/91257308-bf111d00-e793-11ea-947c-4a6458511343.png" width="30">](https://www.facebook.com/hoangduc.anh.1420) 
+:clipboard: **SNS**        : [<img align="center" src="https://user-images.githubusercontent.com/48445457/91256686-30e86700-e792-11ea-8ef4-2f89e75a7cb9.png" width="30">
+](https://www.linkedin.com/in/hoang-duc-anh-668872192/) [<img align="center" src="https://user-images.githubusercontent.com/48445457/91257086-35f9e600-e793-11ea-9af9-eecd41aee74c.png" width="30">](https://twitter.com/HongcAn52449307) [<img align="center" src="https://user-images.githubusercontent.com/48445457/91257308-bf111d00-e793-11ea-947c-4a6458511343.png" width="30">](https://www.facebook.com/hoangduc.anh.1420) 
 
 
 
