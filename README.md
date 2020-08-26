@@ -1,1 +1,22 @@
-![download](https://user-images.githubusercontent.com/48445457/91251298-4efb9a80-e785-11ea-9f41-68dcbc44de9e.png)
+大学    : ハノイ工科大学
+
+職業    : 学生
+
+年齢    : 21 歳
+
+メール  : ducanhlhp9@gmail.com
+
+引用    : “Yesterday is history, tomorrow is mystery, today is a gift , that is why it is called the present.”
+
+趣味    : アコースティック音楽、リアルな小説、科学の本、ブログ、旅行
+
+
+
+
+
+
+
+
+
+
+
