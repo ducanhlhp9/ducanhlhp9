@@ -1,19 +1,19 @@
-# HI :raised_hands:, I'm Hoang Duc Anh
+# ![ezgif-4-949fda72b882](https://user-images.githubusercontent.com/48445457/91256339-4dd06a80-e791-11ea-8255-3e3adddc4a72.gif)
 ### developer
 
-:snowman:**skill**        : PHP, React JS, Java
+:snowman: **skill**        : PHP, React JS, Java
 
-:email:**email**          : ducanhlhp9@gmail.com
+:email: **email**          : ducanhlhp9@gmail.com
 
-:book:**quotes**          : “Yesterday is history, tomorrow is mystery, today is a gift , that is why it is called the present.”
+:book: **quotes**          : “Yesterday is history, tomorrow is mystery, today is a gift , that is why it is called the present.”
 
-:headphones:**hobby**     : Acoustic music, Detective novel, blogs, travel
-
-![image](https://user-images.githubusercontent.com/48445457/91255070-2035f200-e78e-11ea-9d66-2fa5d2eaa443.png)
+:headphones: **hobby**     : Acoustic music, Detective novel, blogs, travel
 
 
-[![image](https://user-images.githubusercontent.com/48445457/91255501-1e206300-e78f-11ea-8dd1-3072a7d1ab30.png)
-](https://www.linkedin.com/in/hoang-duc-anh-668872192/)
+
+:clipboard: **SNS**        : [<img src="https://user-images.githubusercontent.com/48445457/91256686-30e86700-e792-11ea-8ef4-2f89e75a7cb9.png" width="30">
+](https://www.linkedin.com/in/hoang-duc-anh-668872192/) [<img src="https://user-images.githubusercontent.com/48445457/91257086-35f9e600-e793-11ea-9af9-eecd41aee74c.png" width="30">](https://twitter.com/HongcAn52449307) [<img src="https://user-images.githubusercontent.com/48445457/91257308-bf111d00-e793-11ea-947c-4a6458511343.png" width="30">](https://www.facebook.com/hoangduc.anh.1420) 
+
 
 
 
